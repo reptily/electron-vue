@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>
+      Donation support: <a href="https://www.donationalerts.com/r/openweb" target="_blank" rel="noopener">donation</a>.
+    </h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
